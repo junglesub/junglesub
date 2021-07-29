@@ -6,6 +6,7 @@ I am an undergraduate student in Computer Science at Handong Global University.
 
 2020.09 ~ 현재 - [UNBAP](https://unbap.github.io/) ❤️
 
+2021.06 ~ 현재 - 21년도 하계 프로젝트 팀 [ChoiSeokSub (CSS)](https://github.com/CSS-hgu)\
 2020.09 ~ 현재 - 한동대학교 컴퓨터 전산동아리 [Computer Research Association (CRA)](https://cra16.github.io/)
 
 ### 수상 내역
