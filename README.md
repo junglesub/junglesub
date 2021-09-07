@@ -11,6 +11,7 @@ I am an undergraduate student in Computer Science at Handong Global University.
 
 ### 수상 내역
 
+2021.09 - [한동대학교 SW교육동영상 공모전](https://www.youtube.com/playlist?list=PLVIityKQhEeRZM1908FayAbHJWcg8BEG6) 최우수상\
 2021.07 - 대경권 프로그래밍 경진대회 장려상
 
 2020.12 - 한동대학교 1학년 C프로그래밍 컨테스트 최우수상\
