@@ -2,9 +2,13 @@
 
 I am an undergraduate student in Computer Science at Handong Global University.
 
+### 프로젝트 / 서비스
+
+2021.11 ~ 현재 - [한동인을 위한 언젠간 택시탈 수 있겠죠 (HUT)](https://hut.handong.us) 🚕
+
 ### 활동 내역
 
-2021.09 ~ 현재 - [팝누 (PABNU)](https://pabnu.github.io/) 👨‍💻\
+2021.09 ~ 현재 - [팝누 (PABNU)](https://pabnu.github.io/) 👨‍💻  
 2020.09 ~ 현재 - [언밥 (UNBAP)](https://unbap.github.io/) 🍚
 
 2020.09 ~ 현재 - 한동대학교 컴퓨터 전산동아리 [Computer Research Association (CRA)](https://cra16.github.io/)
