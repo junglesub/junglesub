@@ -6,7 +6,7 @@ I am an undergraduate student in Computer Science at Handong Global University.
 
 2021.11 ~ 현재 - [한동인을 위한 언젠간 택시탈 수 있겠죠 (HUT)](https://hut.handong.us) 🚕 디렉터\
 준비중 - 학교 인트라넷 예약 시스템 상상랩 개선 앱 디렉터\
-2020.07 ~ 2021.08 - React + AWS 서비스 개발 인턴
+2020.07 ~ 2021.08 - 서비스 개발 (개발 스택: React + AWS) 인턴
 
 ### 활동 내역
 
