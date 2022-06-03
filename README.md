@@ -6,6 +6,7 @@ I am an undergraduate student in Computer Science at Handong Global University.
 
 ### 프로젝트 / 서비스
 
+2022.06 ~ 현재 - [한동 뉴스레터](https://github.com/junglesub/handong-newsletter) (Python + NodeJS)\
 2021.12 ~ 현재 - [대학시간](https://github.com/handong-life/college-timetable) 개발지원 (React + Express.js)\
 2021.11 ~ 현재 - [한동인을 위한 언젠간 택시탈 수 있겠죠 (HUT)](https://hut.handong.us) 🚕 디렉터 (Flutter / Express.js)\
 준비중 - 빠른 상상랩 : 학교 인트라넷 예약 서비스 디렉터 (Flutter)\
