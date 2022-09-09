@@ -21,7 +21,7 @@ I am an undergraduate student in Computer Science at Handong Global University.
 
 ### 수상 내역
 
-2022.02 - 빅데이터 붐업 데이터톤 경진대회 **우수상 (4등)**
+2022.02 - [빅데이터 붐업 데이터톤 경진대회](https://github.com/junglesub/Dataton_1st_MBTI) **우수상 (4등)**
 
 2021.12 - 한동대학교 SW페스티벌 스마트 애플리케이션 공모전 부문 **대상** (HUT)\
 2021.12 - 한동대학교 SW페스티벌 스마트 애플리케이션 공모전 부문 **장려상** (빠른 상상랩)\
