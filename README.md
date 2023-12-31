@@ -20,6 +20,8 @@ I am an undergraduate student in Computer Science at Handong Global University.
 
 ### 수상 내역
 
+2023.12 - 군 장병 맞춤형 SW AI 역량강화 온라인 교육 수기 공모전 **2등**
+
 2022.10 - 한동대학교 SW페스티벌 소프트웨어 융합연구 공모전 부문 **최우수상** (HUT)\
 2022.02 - [빅데이터 붐업 데이터톤 경진대회](https://github.com/junglesub/Dataton_1st_MBTI) **우수상 (4등)**
 
