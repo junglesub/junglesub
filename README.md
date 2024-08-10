@@ -14,11 +14,14 @@ I am an undergraduate student in Computer Science at Handong Global University.
 ### 활동 내역
 
 2021.09 ~ 현재 - 한동APP 👨‍💻  
+2024.01 ~ 2024.08 - ['L' 동아리](https://hgulikelion.web.app/) 프론트엔드 멘토  
 2020.09 ~ 2021.12 - [언밥 (UNBAP)](https://unbap.github.io/) 🍚
 
 2020.09 ~ 2021.12 - 한동대학교 컴퓨터 전산동아리 [Computer Research Association (CRA)](https://cra16.github.io/)
 
 ### 수상 내역
+
+2024.07 - 2024 하계 빅데이터 코딩 경진대회 **장려상**
 
 2023.12 - 군 장병 맞춤형 SW AI 역량강화 온라인 교육 수기 공모전 **2등**
 
