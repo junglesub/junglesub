@@ -20,6 +20,7 @@ I am an undergraduate student in Computer Science at Handong Global University.
 
 ### 수상 내역
 
+2024.08 - HGU-BizFlow M Contest **2등**  
 2024.07 - 2024 하계 빅데이터 코딩 경진대회 **장려상**
 
 2023.12 - 군 장병 맞춤형 SW AI 역량강화 온라인 교육 수기 공모전 **2등**
