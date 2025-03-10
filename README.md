@@ -23,7 +23,7 @@ I am an undergraduate student in Computer Science at Handong Global University.
 
 2024.11 - 한동대학교 SW페스티벌 스마트 애플리케이션 공모전 부문 **대상** (한동피드) [[유튜브]](https://www.youtube.com/watch?v=xpXz107p8Gw)\
 2024.11 - 한동대학교 SW페스티벌 스마트 애플리케이션 공모전 부문 **최우수상** (예약한방)\
-2024.11 - 한동대학교 SW페스티벌 스마트 애플리케이션 공모전 부문 **장려상** (우물우물)\
+2024.11 - 한동대학교 SW페스티벌 스마트 애플리케이션 공모전 부문 **장려상** [(우물우물)](https://woo-mool.web.app/) [[깃허브]](https://github.com/LikeLionHGU/WOOMOOL_Front)\
 2024.08 - BizFlow M Contest **2등**  
 2024.07 - 2024 하계 빅데이터 코딩 경진대회 **장려상**
 
