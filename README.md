@@ -2,6 +2,8 @@
 
 I am an undergraduate student in Computer Science at Handong Global University.
 
+For English: [ENGLISH.md](https://github.com/junglesub/junglesub/blob/master/ENGLISH.md)
+
 ## 🚀 프로젝트 / 서비스
 
 2024.10 ~ 현재 - [한동피드 : 한동대학교 소식을 한 곳에서](https://feed.handong.app/) 디렉터 (React+Spring)\
