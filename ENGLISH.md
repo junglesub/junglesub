@@ -4,9 +4,9 @@ I’m an undergraduate student majoring in Computer Science at Handong Global Un
 
 ## 🚀 Projects / Services
 
-* **Oct 2024 – Present**: [HandongFeed: All Handong News in One Place](https://feed.handong.app/) – Director (React + Spring)
-* **Sep 2024 – Present**: [Fast Sangsang Lab: Intranet Reservation Service](https://sangsang.handong.app) – Director (Flutter)
-* **Jun 2022 – Present**: [Handong Newsletter](https://github.com/junglesub/handong-newsletter) (Python + NodeJS)
+* **Oct 2024 – Jun 2025**: [HandongFeed: All Handong News in One Place](https://feed.handong.app/) – Director (React + Spring)
+* **Nov 2024 – Jun 2025**: [Fast Sangsang Lab: Intranet Reservation Service](https://sangsang.handong.app) – Director (Flutter)
+* **Nov 2022 – Nov 2025**: [Handong Newsletter](https://github.com/junglesub/handong-newsletter) (Python + NodeJS)
 * **Nov 2021 – Sep 2022**: [HUT – Handong University Taxi App](https://hut.handong.app) 🚕 – Director (Flutter / Express.js)
 * **Jul 2020 – Aug 2021**: Service Development Intern (React + AWS)
 
