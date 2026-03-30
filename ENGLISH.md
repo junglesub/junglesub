@@ -32,8 +32,8 @@ I’m an undergraduate student majoring in Computer Science at Handong Global Un
 * **Dec 2021**: Merit Award – Smart Application Category, Handong SW Festival (Fast Sangsang Lab)
 * **Sep 2021**: Excellence Award – [Handong SW Educational Video Contest](https://www.youtube.com/playlist?list=PLVIityKQhEeRZM1908FayAbHJWcg8BEG6)
 * **Jul 2021**: Merit Award – Daegu-Gyeongbuk Programming Contest
-* **Dec 2020**: Excellence Award – 1st Year C Programming Contest, Handong University
-* **Nov 2020**: Grand Prize – 1st Year Software Contest, Handong SW Festival
+* **Dec 2020**: Excellence Award – Freshman C Programming Contest, Handong University
+* **Nov 2020**: Grand Prize – Freshman Year Software Contest, Handong SW Festival
 * **Nov 2020**: Excellence Award – Problem-Solving Idea Contest, Handong SW Festival
 * **2019**: Rosslyn Academy Graduation – Presentation Award for *"Wait! Don’t Click That Link! (Cyber Security)"*
 
