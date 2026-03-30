@@ -6,9 +6,8 @@ For English: [ENGLISH.md](https://github.com/junglesub/junglesub/blob/master/ENG
 
 ## 🚀 프로젝트 / 서비스
 
-2024.09 ~ 현재 - [빠른 상상랩 : 학교 인트라넷 예약 서비스](https://sangsang.handong.app) 디렉터 (Flutter)\
-2022.06 ~ 현재 - [한동 뉴스레터](https://github.com/junglesub/handong-newsletter) (Python + NodeJS)
-
+2024.11 ~ 2025.06 - [빠른 상상랩 : 학교 인트라넷 예약 서비스](https://sangsang.handong.app) 디렉터 (Flutter)\
+2022.11 ~ 2025.11 - [한동 뉴스레터](https://github.com/junglesub/handong-newsletter) (Python + NodeJS)\
 2024.10 ~ 2025.06 - [한동피드 : 한동대학교 소식을 한 곳에서](https://feed.handong.app/) 디렉터 (React+Spring)\
 2021.11 ~ 2022.09 - [한동인을 위한 언젠간 택시탈 수 있겠죠 (HUT)](https://hut.handong.app) 🚕 디렉터 (Flutter / Express.js)\
 2020.07 ~ 2021.08 - 서비스 개발 (개발 스택: React + AWS) 인턴
